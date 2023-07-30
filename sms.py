@@ -1,6 +1,6 @@
 import pywhatkit as kit
 
-number = "09371047870"
+number = "**************"
 
 kit.sendwhatmsg(
     number,
